@@ -1,0 +1,14 @@
+.allEmployees{
+	display: flex;
+	align-items: center;
+	/* justify-content: space-bet; */
+	flex-direction: column;
+	flex-wrap: wrap;
+	padding: 10px;
+	height: 550px;
+}
+
+.allEmployees > *{
+	padding-bottom:40px;
+	margin: 10px;
+}

@@ -1,0 +1,17 @@
+.EmployeeDetailsCard{
+	padding: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: row;
+
+}
+
+.EmployeeDetailsCard > *{
+	padding: 10px;
+}
+
+.EmployeeDetailsCard > * > *{
+	padding: 10px;
+
+}
