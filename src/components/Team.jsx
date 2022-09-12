@@ -24,7 +24,7 @@ const Team = () => {
 		setTeam(employees);
 		console.log(employees);
 	};
-
+	
 	useEffect(() => {
 		fetchEmployees();
 	}, []);
