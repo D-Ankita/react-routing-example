@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-routing-example/static/css/main.70fd62bb.css",
+    "main.js": "/react-routing-example/static/js/main.f99f84e6.js",
+    "static/js/787.907d134f.chunk.js": "/react-routing-example/static/js/787.907d134f.chunk.js",
+    "index.html": "/react-routing-example/index.html",
+    "main.70fd62bb.css.map": "/react-routing-example/static/css/main.70fd62bb.css.map",
+    "main.f99f84e6.js.map": "/react-routing-example/static/js/main.f99f84e6.js.map",
+    "787.907d134f.chunk.js.map": "/react-routing-example/static/js/787.907d134f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70fd62bb.css",
+    "static/js/main.f99f84e6.js"
+  ]
+}
